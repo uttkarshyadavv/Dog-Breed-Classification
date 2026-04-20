@@ -32,7 +32,7 @@ Given an image of a dog, predict its breed from **120 possible breeds** — a mu
 5. Evaluate predictions with confidence visualization
 6. Generate Kaggle submission CSV with prediction probabilities
 ## Results
- 
+ ![Sample Prediction](sample_prediction.png)
 - Trained on full dataset (~10,000 images)
 - Model saved as `.h5` and reloaded successfully
 - Predictions exported to CSV for Kaggle submission
