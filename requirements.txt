@@ -1,0 +1,6 @@
+tensorflow==2.x
+tensorflow-hub
+numpy
+pandas
+matplotlib
+scikit-learn
